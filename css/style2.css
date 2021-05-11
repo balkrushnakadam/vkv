@@ -145,7 +145,7 @@ nav ul li a:hover{
 .cover span{
   display: block;
   position: absolute;
-  color: silver;
+  color: white;
   text-align: center;
   font-size: 2.5em;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.4);
