@@ -42,12 +42,20 @@
   color: white;
 }
 .list_contents>p{
-  text-indent: 4em;
+  text-indent: 3em;
   text-align: left;
   padding: 0 0.8em;
   word-spacing: 0.2em;
   color: #f8f8f8;
   line-height: 1.4em;
+}
+.list_contents>span{
+  padding: 0 0.8em;
+  word-spacing: 0.2em;
+}
+.list_contents>ul>li{
+  line-height: 1.4em;
+  word-spacing: 0.2em;
 }
 .list_contents>a{
   position: relative;
