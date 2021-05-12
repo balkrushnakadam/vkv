@@ -167,6 +167,7 @@ nav ul li a:hover{
 .slide span{
   position: absolute;
   visibility: hidden;
+  text-align: center;
   opacity: 0.3;
   display: inline-block;
   transition-timing-function: ease-out;
