@@ -43,7 +43,7 @@
 }
 .list_contents>p{
   text-indent: 3em;
-  text-align: justified;
+  text-align: justify;
   padding: 0 0.8em;
   word-spacing: 0.15em;
   color: #f8f8f8;
