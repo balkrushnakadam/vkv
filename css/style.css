@@ -387,6 +387,7 @@ nav ul li a:hover{
 }
 
 .aboutus_container p{
+  text-align: justify;
   text-indent: 4em;
   line-height: 1.7em;
 }
